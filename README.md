@@ -1,4 +1,8 @@
-# 🚀 Forge Digitals
+<p align="center">
+  <img src="./ChatGPT Image Jul 4, 2026, 02_34_54 PM.png" alt="Forge Digitals Banner">
+</p>
+
+# 🚀 Forge Digitals# 🚀 Forge Digitals
 
 > Building Games. Creating Experiences. Forging Innovation.
 
