@@ -62,7 +62,7 @@ To build innovative games, software, and AI-powered experiences that inspire cre
 
 📧 Business Inquiries
 
-forgedigitals.business@gmail.com
+forgedigitals05@gmail.com
 
 ---
 
